@@ -1,0 +1,14 @@
+Importer Log Report
+Project : Controller PCB.PrjPcb
+
+Section : Analyze Document - E:\Mostafa\PoS Assistant\Controller PCB\Controller PCB.brd
+    Analyzing data of E:\Mostafa\PoS Assistant\Controller PCB\Controller PCB.brd
+    Load settings
+    Load layers 99
+    Load board
+    Load Library "headers(2mm)"
+    Load Packages 1
+    Load Library "ESP8266-12E_ESP-12E"
+    Load Packages 1
+    ERROR: Unhandled typemfgpreviewcolors
+EndSection
